@@ -1,7 +1,6 @@
 # Project-01
 
-# Your Name
+# Aaron Koeske
 
-# Your Github username
+# AaronKoeske-Sudo
 
-# List the things you added for points
